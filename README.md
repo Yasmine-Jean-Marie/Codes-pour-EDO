@@ -16,7 +16,7 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 
 ---
 
-## 📂 Organisation du dépôt
+## Organisation du dépôt
 
 ### Fonctions principales
 - `euler_exp.m` : schéma d’Euler explicite  
@@ -42,4 +42,6 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 - `stabilite.m` : test de stabilité numérique  
 - `temps_de_calcul.m` : comparaison des temps de calcul  
 
-gend('Proies', 'Prédateurs');
+##Quelques essais d'usage de données réelles disponible sur kaggle
+-`testreel.m`
+-`usagedonnereel.m`
