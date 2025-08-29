@@ -24,7 +24,7 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
   - plot_lyapounov_with_trajectory.m:
 
 - scripts d’exécution et tests numériques  
-  - `simulation_euler.m`  
+  - 'test_euler_exp.m ' 
   - `simulation_rk4.m`  
   - `stability_analysis.m`  
 
