@@ -19,6 +19,7 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 ## Organisation du dépôt
 
 ### Fonctions principales
+-F.m :Fonction vectorielle du système
 - `euler_exp.m` : schéma d’Euler explicite  
 - `euler_imp.m` : schéma d’Euler implicite  
 - `rk4.m` : méthode de Runge–Kutta d’ordre 4  
