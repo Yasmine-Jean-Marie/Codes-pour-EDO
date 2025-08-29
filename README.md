@@ -42,6 +42,6 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 - `stabilite.m` : test de stabilité numérique  
 - `temps_de_calcul.m` : comparaison des temps de calcul  
 
-##Quelques essais d'usage de données réelles disponible sur kaggle
+### Quelques essais d'usage de données réelles disponible sur kaggle
 -`testreel.m`
 -`usagedonnereel.m`
