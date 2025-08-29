@@ -45,3 +45,22 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 ### Quelques essais d'usage de données réelles disponible sur kaggle
 -`testreel.m`
 -`usagedonnereel.m`
+
+## Bibliographie
+
+- **Étude du système proie–prédateur de Lotka–Volterra**  
+  - [Lotka-Volterra.pdf](https://who.rocq.inria.fr/Jean.Clairambault/Equations%20de%20Lotka%20Volterra%20et%20quelques%20apparentees.pdf)  
+  - [volterra.pdf](https://agreg-maths.univ-rennes1.fr/documentation/docs/volterra.pdf)  
+  - [Intro_Diff3.pdf](https://www.southampton.ac.uk/~mb1a10/sim/Intro_Diff3.pdf)  
+  - [478578_Chapter_4.pdf](https://www.math.iit.edu/~fass/478578_Chapter_4.pdf)  
+
+- **Competitive Lotka–Volterra equation**  
+  - [Un modèle de compétition entre espèces](https://experiences.mathemarium.fr/Un-modele-de-competition-entre)  
+
+- **Generalized Lotka–Volterra equation**  
+  - Fort, H. (2018). *On predicting species yields in multispecies communities: Quantifying the accuracy of the linear Lotka–Volterra generalized model*. **Ecological Modelling**, 387, p. 2.  
+
+- **Mutualism and the Lotka–Volterra equation**  
+  - [Philosophia Scientiae – Mutualisme et modèles Lotka–Volterra](https://journals.openedition.org/philosophiascientiae/697?lang=en)  
+  - [Équations de compétition de Lotka–Volterra (Jimdo)](https://complexe.jimdofree.com/la-th%C3%A9orie-du-chaos/dynamique-des-populations/%C3%A9quations-de-comp%C3%A9tition-de-lotka-volterra/)  
+
