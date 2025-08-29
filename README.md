@@ -1,7 +1,7 @@
 #  Projet Lotka–Volterra : Modèles proie–prédateur et variantes
 
 Ce dépôt rassemble les codes MATLAB/Octave développés pour l’étude du **modèle proie–prédateur de Lotka–Volterra** et de ses **extensions réalistes** (compétition, mutualisme, cas généralisé à \(n\) espèces).  
-Il fait partie d’un projet académique en **mathématiques appliquées et calcul scientifique**.
+Il fait partie d’un projet académique en **mathématiques appliquées et calculs scientifiques**.
 
 ---
 
