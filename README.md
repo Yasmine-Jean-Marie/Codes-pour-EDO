@@ -9,8 +9,9 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
 - Étudier le **modèle classique proie–prédateur** de Lotka–Volterra.  
 - Implémenter et comparer différentes **méthodes numériques** : Euler explicite/implicite, Crank–Nicolson, Runge–Kutta d’ordre 4.  
 - Analyser la **stabilité des équilibres** ( Jacobien,Lyapunov).  
-- Explorer des **variantes** (compétition, mutualisme).  
-- Comparer les résultats numériques avec des solutions exactes quand elles existent.  
+- Explorer des **variantes** (compétition, mutualisme,cas généralisé à n espèces).
+- Comparer les résultats numériques avec des solutions exactes quand elles existent.
+- Etudier la performance des méthodes utilisées  
 
 
 
@@ -21,22 +22,23 @@ Il fait partie d’un projet académique en **mathématiques appliquées et calc
   - euler_imp.m:schéma d’Euler implicite  
   - rk4.m : méthode de Runge–Kutta d’ordre 4  
   - crank_nicolson.m: schéma de Crank–Nicolson  
-  - plot_lyapounov_with_trajectory.m:
+  - plot_lyapounov_with_trajectory.m: code pour les lignes de niveau 
 
 - scripts d’exécution et tests numériques  
-  - 'test_euler_exp.m ' 
-  - `simulation_rk4.m`  
-  - `stability_analysis.m`  
+  - test_euler_exp.m 
+  - test_euler_imp.m 
+  - test_crank_nicolson.m
+  - test_runge_kutta_4.m  
 
-- `plots/` : figures générées automatiquement (trajectoires, portraits de phase, comparaisons d’erreur).  
+  ##Codes utilisées pour la partie vers des modèles plus réalistes  
 
-- `docs/` : documents PDF liés au projet (notes de cours, annexes).  
+- F_mut.m
+- Fcomp.m
+- test_rk4_com_coexistence.m
+- test_rk4_comp_dominance.m
+- test_runge_kutta_4_mutualisme.m
+- 
 
----
-
-## ⚙️ Installation
-
-Cloner le dépôt :
-
-```bash
-git clone https://github.com/moncompte/lotka-volterra.git
+##Codes utilisées pour la partie étude de la  performance des méthodes 
+-stabilite.m
+-temps-de-calcul.m
